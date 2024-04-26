@@ -33,4 +33,4 @@ Email: 730115@profe.sed.sc.gov.br
 
 _Plágio é crime e também nota ZERO :)_
 
-<center><h1>Bom desafio! 👨‍💻</h1></center>
+<p align="center"><h1>Bom desafio! 👨‍💻</h1></p>
