@@ -23,6 +23,12 @@ Três itens são obrigatórios:
 - Criatividade;
 - Usabilidade da aplicação;
 
+## Entrega
+
+Subir o código no seu GitHub em um repositório e envie o link via email (deixar o repositório público).
+
+Email: 730115@profe.sed.sc.gov.br
+
 # Observações
 
 _Plágio é crime e também nota ZERO :)_
